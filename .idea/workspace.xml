@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9b2bc6f0-f741-442a-b199-d362158b7a7c" name="Default Changelist" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/bug_report.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/custom.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/feature_request.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/workflows/dart.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Best-Flutter-UI-Templates-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/android/app/src/main/kotlin/com/example/best_flutter_ui_templates/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/assets/design_course/design_course.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/assets/design_course/interFace1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/assets/design_course/interFace2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/assets/design_course/interFace3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/assets/design_course/interFace4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/assets/design_course/userImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/assets/design_course/webInterFace.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/assets/fitness_app/area1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/assets/fitness_app/area2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/assets/fitness_app/area3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/assets/fitness_app/back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/assets/fitness_app/bell.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/assets/fitness_app/bottle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/assets/fitness_app/breakfast.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/assets/fitness_app/burned.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/assets/fitness_app/dinner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/assets/fitness_app/eaten.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/assets/fitness_app/fitness_app.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/assets/fitness_app/glass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/assets/fitness_app/lunch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/assets/fitness_app/runner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/assets/fitness_app/snack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/assets/fitness_app/tab_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/assets/fitness_app/tab_1s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/assets/fitness_app/tab_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/assets/fitness_app/tab_2s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/assets/fitness_app/tab_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/assets/fitness_app/tab_3s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/assets/fitness_app/tab_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/assets/fitness_app/tab_4s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/assets/fonts/Roboto-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/assets/fonts/Roboto-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/assets/fonts/Roboto-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/assets/fonts/WorkSans-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/assets/fonts/WorkSans-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/assets/fonts/WorkSans-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/assets/fonts/WorkSans-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/assets/hotel/hotel_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/assets/hotel/hotel_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/assets/hotel/hotel_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/assets/hotel/hotel_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/assets/hotel/hotel_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/assets/hotel/hotel_booking.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/assets/images/feedbackImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/assets/images/helpImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/assets/images/inviteImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/assets/images/supportIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/assets/images/userImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/ios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/lib/app_theme.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/lib/custom_drawer/drawer_user_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/lib/custom_drawer/home_drawer.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/lib/design_course/category_list_view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/lib/design_course/course_info_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/lib/design_course/design_course_app_theme.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/lib/design_course/home_design_course.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/lib/design_course/models/category.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/lib/design_course/popular_course_list_view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/lib/feedback_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/lib/fitness_app/bottom_navigation_view/bottom_bar_view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/lib/fitness_app/fitness_app_home_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/lib/fitness_app/fitness_app_theme.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/lib/fitness_app/models/meals_list_data.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/lib/fitness_app/models/tabIcon_data.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/lib/fitness_app/my_diary/meals_list_view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/lib/fitness_app/my_diary/my_diary_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/lib/fitness_app/my_diary/water_view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/lib/fitness_app/traning/training_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/lib/fitness_app/ui_view/area_list_view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/lib/fitness_app/ui_view/body_measurement.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/lib/fitness_app/ui_view/glass_view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/lib/fitness_app/ui_view/mediterranean_diet_view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/lib/fitness_app/ui_view/running_view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/lib/fitness_app/ui_view/title_view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/lib/fitness_app/ui_view/wave_view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/lib/fitness_app/ui_view/workout_view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/lib/help_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/lib/home_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/lib/hotel_booking/calendar_popup_view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/lib/hotel_booking/custom_calendar.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/lib/hotel_booking/filters_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/lib/hotel_booking/hotel_app_theme.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/lib/hotel_booking/hotel_home_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/lib/hotel_booking/hotel_list_view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/lib/hotel_booking/model/hotel_list_data.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/lib/hotel_booking/model/popular_filter_list.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/lib/hotel_booking/range_slider_view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/lib/hotel_booking/slider_view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/lib/invite_friend_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/lib/model/homelist.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/lib/navigation_home_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_flutter_ui_templates/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/07-05-2020.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/custom_drawer.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/custom_drawer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/design_course.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fitness_app.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hotel_booking.gif" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jSxqgm59okc9hWosxlntFiBFra" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../flutter/bin" />
+    <property name="settings.editor.selected.configurable" value="preferences.language.Kotlin" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Flutter.main.dart">
+    <configuration name="widget_test.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/best_flutter_ui_templates/test/widget_test.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/best_flutter_ui_templates" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/best_flutter_ui_templates/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flutter.main.dart" />
+        <item itemvalue="Dart Command Line App.widget_test.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b2bc6f0-f741-442a-b199-d362158b7a7c" name="Default Changelist" comment="" />
+      <created>1603811486343</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603811486343</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="586" y="218" key="#Inspections" timestamp="1603970460163">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="586" y="218" key="#Inspections/0.0.1920.1080@0.0.1920.1080" timestamp="1603970460163" />
+    <state x="350" y="89" key="#widget_test.dart" timestamp="1603820154969">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="350" y="89" key="#widget_test.dart/0.0.1280.720@0.0.1280.720" timestamp="1603820154969" />
+    <state x="-4" y="1" width="1288" height="723" key="AVDManager" timestamp="1603985535061">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="-4" y="1" width="1288" height="723" key="AVDManager/0.0.1280.720@0.0.1280.720" timestamp="1603985535061" />
+    <state x="481" y="107" key="CommitChangelistDialog2" timestamp="1603970363821">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="481" y="107" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1603970363821" />
+    <state x="422" y="115" key="FileChooserDialogImpl" timestamp="1603819983564">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="422" y="115" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1603819983564" />
+    <state width="1877" height="253" key="GridCell.Tab.0.bottom" timestamp="1603970363958">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1236" height="166" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1603949831737" />
+    <state width="1877" height="253" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1603970363958" />
+    <state width="1877" height="253" key="GridCell.Tab.0.center" timestamp="1603970363957">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1236" height="166" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1603949831736" />
+    <state width="1877" height="253" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1603970363957" />
+    <state width="1877" height="253" key="GridCell.Tab.0.left" timestamp="1603970363956">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1236" height="166" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1603949831736" />
+    <state width="1877" height="253" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1603970363956" />
+    <state width="1877" height="253" key="GridCell.Tab.0.right" timestamp="1603970363957">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1236" height="166" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1603949831737" />
+    <state width="1877" height="253" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1603970363957" />
+    <state x="354" y="342" key="SettingsEditor" timestamp="1603970632364">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="143" y="5" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1603820145618" />
+    <state x="354" y="342" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1603970632364" />
+    <state x="92" y="92" width="1736" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1603959113739">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="92" y="92" width="1736" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1603959113739" />
+    <state x="521" y="140" width="881" height="801" key="find.popup" timestamp="1603970752213">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="347" y="93" width="587" height="534" key="find.popup/0.0.1280.720@0.0.1280.720" timestamp="1603950407545" />
+    <state x="521" y="140" width="881" height="801" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1603970752213" />
+  </component>
+</project>
